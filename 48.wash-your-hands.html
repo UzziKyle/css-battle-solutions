@@ -1,0 +1,42 @@
+<div class='cont'>
+<div class='bot rect'></div>
+<div class='top rect'>
+    <div class='hol'></div>
+</div>
+</div>
+<style>
+    body {
+        display: flex; 
+        justify-content: center;
+        align-items: center;
+        background: #293462;
+    }
+    .cont {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: start;
+        align-items: center;
+        margin-bottom: 31%;
+    }
+    .rect {
+        position: absolute;
+        width: 200px;
+        border-radius: 20px;
+    }
+    .top {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #FE5F55;
+        height: 100px;
+    }
+    .hol {
+        width: 140px;
+        height: 40px;
+        border-radius: 20px;
+    }
+    .bot {
+        height: 120px;
+    }
+    .bot, .hol { background: #A64942; }
+</style>
