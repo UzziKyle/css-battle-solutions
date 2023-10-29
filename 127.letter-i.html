@@ -1,0 +1,47 @@
+<div class='cir un'></div>
+<div class='i'>
+  <div class='hor'></div>
+  <div class='stem'>
+    <div class='side'></div>
+    <div class='side'></div>
+  </div>
+  <div class='hor'></div>
+</div>
+<div class='cir du'></div>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #E3516E;
+  }
+  .cir, .hor, .stem { background: #FADE8B; }
+  .cir {
+    position: relative;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px
+  }
+  .cir.un { margin-top: 130px; }
+  .cir.du { margin-bottom: 130px; }
+  .hor {
+    border-radius: 30px;
+    height: 30px;
+    width: 100px;
+  }
+  .stem {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+  }
+  .side {
+    border-radius: 0 10px 10px 0;
+    height: inherit;
+    width: 35px;
+    background: #E3516E;
+  }
+  .side:nth-child(2) {
+    transform: scaleX(-1);
+  }
+</style>

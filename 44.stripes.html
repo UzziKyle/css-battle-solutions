@@ -1,0 +1,34 @@
+<div class='side' un></div>
+<div class='cont'>
+  <div class='strp'></div>
+  <div class='strp'></div>
+  <div class='strp'></div>
+  <div class='strp'></div>
+  <div class='strp' i></div>
+</div>
+<div class='side' du></div>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1A4341;
+  }
+  .strp {
+    width: 160px;
+    height: 20px;
+    background: #F3AC3C;
+    margin-bottom: 20px;
+  }
+  .strp[i]{ margin: 0; }
+  .side {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background: #1A4341;
+    z-index: 1;
+  }
+  .side[un] { margin-right: 399.5px; }
+  .side[du] { margin-left: 399.5px; }
+</style>
