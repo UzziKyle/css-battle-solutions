@@ -1,0 +1,36 @@
+<div rect></div>
+<div sqr big></div>
+<div sqr sml></div>
+<div cir></div>
+<style>
+  * { margin: 0 }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #222730;
+  }
+  div { position: absolute; }
+  div[rect] {
+    height: 150px;
+    width: 100%;
+    background: #4CAAB3;
+  }
+  div[sqr] { rotate: 45deg; }
+  div[sqr][sml] {
+    height: 150px;
+    width: 150px;
+    background: #4CAAB3;
+  }
+  div[sqr][big] {
+    height: 250px;
+    width: 250px;
+    background: #222730;
+  }
+  div[cir] {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background: #393E46;
+  }
+</style>
