@@ -1,10 +1,10 @@
 # Welcome! 👋
 
-![Css Battle Logo](https://cssbattle.dev/images/logo.svg)
-
 This is a repository where I upload my solutions for each CSS Battle problems I have solved. Feel free to take a glance. 😉
 
 ## WTF is CSS Battle?
+
+[![Css Battle Logo](https://cssbattle.dev/images/logo.svg)](https://cssbattle.dev/)
 
 Read their [about page](https://cssbattle.dev/about).
 
