@@ -30,3 +30,10 @@ Or register [here](https://cssbattle.dev/login) first.
 10. [Cloaked Spirits](./battles/1.Pilot-Battle/010.cloaked-spirits.md)
 11. [Eye of Sauron](./battles/1.Pilot-Battle/011.eye-of-sauron.md)
 12. [Wiggly Moustache](./battles/1.Pilot-Battle/012.wiggly-moustache.md)
+
+### Battle #2 - Visibility
+
+![Battle #2 Gallery](./assets/groups/002.visibility.png)
+
+13. [Totally Triangle](./battles/2.Visibility/013.totally-triangle.md)
+14. [Web Maker Logo](./battles/2.Visibility/014.web-maker-logo.md)
