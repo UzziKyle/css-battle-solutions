@@ -37,3 +37,6 @@ Or register [here](https://cssbattle.dev/login) first.
 
 13. [Totally Triangle](./battles/2.Visibility/013.totally-triangle.md)
 14. [Web Maker Logo](./battles/2.Visibility/014.web-maker-logo.md)
+15. [Overlap](./battles/2.Visibility/015.overlap.md)
+16. [Eye of the Tiger](/battles/2.Visibility/016.eye-of-the-tiger.md)
+17. [Fidget Spinner](/battles/2.Visibility/017.fidget-spinner.md)
