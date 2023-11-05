@@ -41,3 +41,10 @@ Or register [here](https://cssbattle.dev/login) first.
 16. [Eye of the Tiger](/battles/2.Visibility/016.eye-of-the-tiger.md)
 17. [Fidget Spinner](/battles/2.Visibility/017.fidget-spinner.md)
 18. [Matrix](/battles/2.Visibility/018.matrix.md)
+
+### Battle #3 - Cursor
+
+![Battle #3 Gallery](./assets/groups/003.cursor.png)
+
+19. [Cube](/battles/3.Cursor/019.cube.md)
+20. [Ticket](/battles/3.Cursor/020.ticket.md)
